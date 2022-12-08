@@ -14,5 +14,19 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
+
+Route::get('/troll', function () {
+    return view('troll');
+});
+
+Route::get('/games', function () {
+    return view('games');
+});
+
+Route::get('/games/bf1', function () {
+    return view('bf1');
+});
+
+
