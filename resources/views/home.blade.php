@@ -67,13 +67,13 @@
           <div class="col-3">
             <div class="card" data-aos="fade-up">
                 <div class="card-header">
-                    <h5>Battlefield 1</h5>
+                    <h5>Battlefield V</h5>
                 </div>
                 <div class="card-body">
-                    <p style="text-decoration-line: line-through;">39.99€</p>NOW<p><strong>4.79€</strong></p>
+                    <p>49.99€</p>No offers found!<p><strong>49.99€</strong></p>
                 </div>
                 <div class="card-footer">
-                    <p><a class="btn btn-success" href="https://store.steampowered.com/app/1238840/Battlefield_1/" target="_blank">BUY</a></p>
+                    <p><a class="btn btn-success" href="https://store.steampowered.com/app/1238810/Battlefield_V/" target="_blank">BUY</a></p>
                 </div>
             </div>
         </div>
