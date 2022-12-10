@@ -45,12 +45,30 @@
               </div>
             </li> --}}
           </ul>
-            <a class="btn btn-outline-success" style="margin-right: 5px;">Log In</a>
-            <a class="btn btn-success my-2 my-sm-0" href="/troll" >Sign Up</a>
+            <a class="btn btn-outline-success" href="/login" style="margin-right: 5px;">Log In</a>
+            <a class="btn btn-success my-2 my-sm-0" href="/signup" >Sign Up</a>
         </div>
       </nav>
 
       @yield('content')
+
+
+      
+<section>
+  <div class="container">
+    <footer class="py-3 my-4">
+      <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+        <li class="nav-item" style="border-right: 1px solid lightgray"><a href="/" class="nav-link px-2 text-muted">Home</a></li>
+        
+        <li class="nav-item" style="border-right: 1px solid lightgray"><a href="/games" class="nav-link px-2 text-muted">Available Games</a></li>
+
+        <li class="nav-item" style="border-right: 1px solid lightgray"><a href="/faqs" class="nav-link px-2 text-muted">FAQs</a></li>
+        <li class="nav-item"><a href="/about" class="nav-link px-2 text-muted">About</a></li>
+      </ul>
+      <p class="text-center text-muted">© 2022 Company, Inc</p>
+    </footer>
+  </div>
+</section>
 
       <script>
         AOS.init();

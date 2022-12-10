@@ -17,8 +17,12 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/troll', function () {
-    return view('troll');
+Route::get('/signup', function () {
+    return view('signup');
+});
+
+Route::get('/login', function () {
+    return view('login');
 });
 
 Route::get('/games', function () {
@@ -29,4 +33,7 @@ Route::get('/games/bf1', function () {
     return view('bf1');
 });
 
+Route::get('/faqs', function () {
+    return view('faqs');
+});
 
