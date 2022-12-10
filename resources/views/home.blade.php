@@ -92,7 +92,8 @@
         </div>
         
         </div>
-        <small style="color: white"">All our offers are based on real-time trusted stores prices.</small>
+        {{-- LOL --}}
+        <small style="color: white">All our offers are based on real-time trusted stores prices.</small>
     </div>
 </section>
 
