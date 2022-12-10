@@ -39,7 +39,7 @@
         </div>
         <div class="row" style="margin-top: 2%">
           <div class="col-3">
-              <div class="card" data-aos="fade-up">
+              <div class="card" data-aos="flip-left">
                   <div class="card-header">
                       <h5>Battlefield 1</h5>
                   </div>
@@ -52,7 +52,7 @@
               </div>
           </div>
           <div class="col-3">
-              <div class="card" data-aos="fade-up">
+              <div class="card" data-aos="flip-left">
                   <div class="card-header">
                       <h5>Battlefield 4</h5>
                   </div>
@@ -65,7 +65,7 @@
               </div>
           </div>
           <div class="col-3">
-            <div class="card" data-aos="fade-up">
+            <div class="card" data-aos="flip-left">
                 <div class="card-header">
                     <h5>Battlefield V</h5>
                 </div>
@@ -78,7 +78,7 @@
             </div>
         </div>
         <div class="col-3">
-            <div class="card" data-aos="fade-up">
+            <div class="card" data-aos="flip-left">
                 <div class="card-header">
                     <h5>Battlefield 4</h5>
                 </div>
@@ -92,7 +92,7 @@
         </div>
         
         </div>
-        <small style="color: white">All our offers are based on real-time trusted stores prices.</small>
+        <small style="color: white"">All our offers are based on real-time trusted stores prices.</small>
     </div>
 </section>
 

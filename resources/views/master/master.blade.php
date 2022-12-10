@@ -56,8 +56,8 @@
       
 <section>
   <div class="container">
-    <footer class="py-3 my-4">
-      <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+    <footer class="py-3 my-4" >
+      <ul class="nav justify-content-center border-bottom pb-3 mb-3" data-aos="fade-up">
         <li class="nav-item" style="border-right: 1px solid lightgray"><a href="/" class="nav-link px-2 text-muted">Home</a></li>
         
         <li class="nav-item" style="border-right: 1px solid lightgray"><a href="/games" class="nav-link px-2 text-muted">Available Games</a></li>
@@ -70,9 +70,9 @@
   </div>
 </section>
 
-      <script>
-        AOS.init();
-      </script>
+  <script>
+    AOS.init();
+  </script>
 
   </body>
 </html>
