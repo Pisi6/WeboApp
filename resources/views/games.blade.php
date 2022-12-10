@@ -24,7 +24,7 @@
     </div>
 </nav>
 <section style="background-color: lightgray">
-    <ul>
+    <ul data-aos="fade-up">
         <li>
             Battlefield 3
         </li>
